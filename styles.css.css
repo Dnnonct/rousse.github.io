@@ -1,0 +1,108 @@
+<html>
+<head>
+    <title>Rousse</title>
+    <link rel="stylesheet" href="styles.css">
+        body { font-family: sans-serif, helvetica; margin: 20px; background-color: #ffffff; }
+        header { text-align: center; }
+        h1 { color: #5a3e36; }
+        section { background: #ffeded; padding: 15px; margin: 15px 0; border-radius: 8px; }
+        footer { text-align: center; font-size: 0.9em; color: Grey	; margin-top: 20px; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Rousse</h1>
+    <form style="margin-bottom: 10px;">
+        <input type="text" placeholder="Buscar en Rousse..." style="padding: 5px; width: 200px; border-radius: 5px; border: 1px solid #ccc;">
+        <button type="submit" style="padding: 5px 10px; border-radius: 5px; border: none; background-color: #5a3e36; color: white;">Buscar</button>
+    </form>
+    <img src="IMG\descargar.png" width="200" height="200">
+    <p>"Rousse: tu aroma, tu historia."</p>
+</header>
+
+<section>
+    <center><h2>Sobre Nosotros</h2></center>
+   <center> <p>En Rousse creemos que un aroma tiene el poder de transformar un espacio y un momento. Nos dedicamos a crear aromatizantes únicos, combinando ingredientes de alta calidad con pasión por el detalle.</p></center>
+<p><center>Siempre que tenemos la opción, elegimos consumir y abastecernos en mercados locales del país, apoyando a productores y proveedores nacionales para que cada uno de nuestros productos no solo te encante, sino que también impulse nuestra economía y fortalezca lo hecho aquí.</p></center>
+<p><center>Trabajamos bajo valores de sustentabilidad, innovación y autenticidad, porque queremos que cada fragancia cuente una historia y te conecte con emociones inolvidables. </p></center></section>
+
+<section>
+    <center><h2>Nuestros valores</h2></center>
+<center><p>En Rousse creemos en aromas que no solo perfuman, sino que transforman. Por eso trabajamos con pasión y compromiso en:</p></center>
+<br>
+<b> <p> ✅Calidad</p></b>
+<p>Seleccionamos ingredientes de la más alta calidad para ofrecer aromas auténticos, duraderos y seguros.</p>
+
+<b><p>✅ Sustentabilidad</p></b>
+<p>Nos preocupamos por el planeta: elegimos procesos responsables, materiales reciclables y prácticas que reduzcan nuestro impacto ambiental.</p>
+
+<b><p>✅ Apoyo al mercado local</p></b>
+<p>Priorizamos consumir insumos y materiales provenientes de mercados y productores locales; creyendo en fortalecer la economía del país, apoyar a emprendedores y valorar lo hecho aquí.</p>
+
+<b><p>✅ Bienestar</p></b>
+<p>Creamos fragancias pensadas para transformar espacios, elevando el ánimo, relajando el ambiente y generando armonía en cada rincón.</p>
+
+<b><p>✅ Innovación</p></b>
+<p>Estamos en constante búsqueda de nuevas combinaciones, productos y formatos para sorprenderte y mantenernos a la vanguardia del mercado.</p>
+
+<b><p>✅ Compromiso con el cliente</p></b>
+<p>Escuchamos a nuestros clientes, adaptamos nuestros productos a sus necesidades y buscamos siempre superar sus expectativas.</p>
+
+<b><p>✅ Autenticidad</p></b>
+<p>Cada aroma que creamos cuenta una historia única: nos inspiramos en la naturaleza, las emociones y los recuerdos para ofrecer experiencias olfativas genuinas. </p>
+</section>
+
+<section>
+    <center><h2>¿Qué nos hace especial?</h2></center>
+<p><center>En Rousse no creamos aromatizantes genéricos: diseñamos aromas que hablan de ti. Nuestro sistema de creación está pensado para conectar con cada cliente de manera única, escuchando sus gustos y preferencias para desarrollar fragancias personalizadas que transformen cada espacio.</p>
+Así, logramos que cada aroma lleve una firma especial, adaptándose a lo que cada persona, hogar o negocio necesita para sentirse auténtico y lleno de personalidad. No solo perfumamos ambientes: creamos experiencias sensoriales a medida.</center></section>
+
+<section>
+    <center><h2>Presentaciones</h2></center>
+    <center>En nuestras presentaciones contamos con distintos tamaños y formatos, cada uno con propósitos diferentes:</center>
+    <ul style="list-style: none; padding: 0;">
+        <li style="margin-bottom: 15px;">
+            <div style="display: flex; align-items: center;">
+                <img src="IMG\s.jpeg" width="150" height="150" style="margin-right: 10px;">
+                <b>Aromatizante en spray</b>: Para lugares pequeños como un automóvil, donde nos interesa una concentración periódicamente.</span>
+            </div>
+        </li>
+        <li style="margin-bottom: 15px;">
+            <div style="display: flex; align-items: center;">
+                <img src="IMG\di.webp" width="150" height="150" style="margin-right: 10px;">
+                <span><b>Difusores de varillas</b>: Para lugares amplios como el hogar, donde nos interesa un aroma que perdure durante todo el día.</span>
+            </div>
+        </li>
+        <li style="margin-bottom: 15px;">
+            <div style="display: flex; align-items: center;">
+                <img src="IMG\v.webp" width="150" height="150" style="margin-right: 10px;">
+                <span><b>Velas aromáticas</b>: Para esas ocasiones donde buscamos algo estético y que perdure en lugares amplios.</span>
+            </div>
+        </li>
+        <li style="margin-bottom: 15px;">
+            <div style="display: flex; align-items: center;">
+                <img src="IMG\a.jpeg" width="150" height="150" style="margin-right: 10px;">
+                <span><b>Aerosol</b>: Para ocasiones donde necesitamos acción rápida con la facilidad de llevar a cualquier lugar.</span>
+            </div>
+        </li>
+    </ul>
+</section>
+
+<section>
+   <center> <h2>Contacto</h2></center>
+    <center><p>Correo: rousse@aromatizante.com</p></center>
+   <center> <p>Teléfono: +52 55 7777 4111</p></center>
+<center><img src="IMG\f.png" width="50" height="50">
+<img src="IMG\w.png" width="50" height="50">
+<img src="IMG\i.png" width="50" height="50">
+<img src="IMG\p.png" width="50" height="50"></center>
+
+</section>
+
+<footer>
+    &copy; 2025 Rousse aromatizantes. Todos los derechos reservados.
+</footer>
+
+</body>
+</html>
